@@ -1,0 +1,10 @@
+tr:hover{
+    color:blue;
+}
+.table-data{
+    text-align:center;
+}
+table{
+    border:3px dotted black;
+    border-radius: 10px;
+}
